@@ -1,0 +1,1 @@
+https://huggingface.co/Bhaveen/Medical-Speech-Transcription-Whisper-Small-Fine-Tuned
