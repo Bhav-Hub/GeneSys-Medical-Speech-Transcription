@@ -29,7 +29,7 @@ Automated system that transcribes doctor-patient conversations into structured d
 ## 📁 Project Structure
 
 ```
-Gronit-Medical-Speech-Transcription/
+GeneSys-Medical-Speech-Transcription/
 ├── Firebase/                     # Backend Firebase integration
 │   ├── fetch_records.py          # Database query functions
 │   ├── firebase_stuff.py         # Core Firebase operations
@@ -65,8 +65,8 @@ Gronit-Medical-Speech-Transcription/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Gronit-Medical-Speech-Transcription.git
-   cd Gronit-Medical-Speech-Transcription
+   git clone https://github.com/your-username/GeneSys-Medical-Speech-Transcription.git
+   cd GeneSys-Medical-Speech-Transcription
    ```
 
 2. **Install Python dependencies**
