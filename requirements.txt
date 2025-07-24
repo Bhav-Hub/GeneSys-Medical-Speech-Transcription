@@ -1,0 +1,35 @@
+# Flask Backend Dependencies
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Firebase Integration
+firebase-admin==6.2.0
+
+# AI/ML Dependencies
+openai==0.28.1
+transformers==4.35.0
+torch==2.1.0
+torchaudio==2.1.0
+datasets==2.14.0
+evaluate==0.4.0
+jiwer==3.0.3
+huggingface-hub==0.17.0
+
+# Audio Processing
+librosa==0.10.1
+soundfile==0.12.1
+
+# PDF Generation
+fpdf2==2.7.5
+
+# Data Processing
+pandas==2.1.1
+numpy==1.24.3
+
+# Jupyter/Development
+ipython==8.15.0
+jupyter==1.0.0
+
+# General Utilities
+python-dateutil==2.8.2
+requests==2.31.0
