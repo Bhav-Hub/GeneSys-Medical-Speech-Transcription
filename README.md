@@ -8,7 +8,7 @@ Automated system that transcribes doctor-patient conversations into structured d
 
 ## 🚀 Features
 
-- **AI-Powered Transcription**: Fine-tuned Whisper ASR Small achieving 10.6% Word Error Rate for medical terminology
+- **AI-Powered Transcription**: Fine-tuned Whisper ASR Small achieving 10.6% Word Error Rate for medical terminology ([Bhaveen/Medical-Speech-Transcription-Whisper-Small-Fine-Tuned](https://huggingface.co/Bhaveen/Medical-Speech-Transcription-Whisper-Small-Fine-Tuned))
 - **Structured Output**: One-shot prompting to format transcriptions into digital prescriptions
 - **Multi-Role Authentication**: Secure login system for Patients, Doctors, and Pharmacists
 - **Real-time Recording**: Browser-based audio recording and transcription
@@ -134,7 +134,7 @@ GeneSys-Medical-Speech-Transcription/
 - **Base Model**: OpenAI Whisper-Small
 - **Fine-tuning**: Medical terminology dataset
 - **Performance**: 10.6% Word Error Rate
-- **Model URL**: [Hugging Face](https://huggingface.co/Bhaveen/Medical-Speech-Transcription-Whisper-Small-Fine-Tuned)
+- **Model Link**: [Bhaveen/Medical-Speech-Transcription-Whisper-Small-Fine-Tuned](https://huggingface.co/Bhaveen/Medical-Speech-Transcription-Whisper-Small-Fine-Tuned)
 
 ### Text Processing
 - **GPT-4 Integration**: Structured prescription formatting
